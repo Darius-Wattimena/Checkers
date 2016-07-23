@@ -1,0 +1,8 @@
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\DariusPC\documents\visual studio 2015\Projects\Checkers\Checkers\obj\Debug\Checkers.pdb
